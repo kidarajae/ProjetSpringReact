@@ -1,0 +1,10 @@
+package com.example.admin.model;
+
+public class admin {
+    private String nom;
+    private String prenom;
+    private String login ;
+    private String mdp;
+
+
+}
